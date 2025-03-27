@@ -40,5 +40,3 @@ def check_password_strength(password):
 password = input("Enter your password: ")
 check_password_strength(password)
 
-#Uzma khaliL
-#GIAIC 00407051
